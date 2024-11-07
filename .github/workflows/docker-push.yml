@@ -32,8 +32,8 @@ jobs:
       - name: Login to DockerHub
         uses: docker/login-action@v2
         with:
-          username: Purnimabhatt212
-          password: N@1n1t@1
+          username: Purnimabhatt212@gmail.com
+          password: N@1n1t@123
 
       - name: Get tag to build
         id: tag
